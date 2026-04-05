@@ -1,0 +1,474 @@
+post_id,title,score,num_comments,author,category
+47640728,Show HN: A game where you build a GPU,655,147,Jaso1024,general
+47645432,Introduction to Computer Music (2009) [pdf],126,34,luu,general
+47595695,OpenScreen is an open-source alternative to Screen Studio,228,43,jskopek,general
+47644406,German implementation of eIDAS will require an Apple/Google account to function,152,101,DyslexicAtheist,general
+47640875,"LLM Wiki – example of an ""idea file""",151,42,tamnd,general
+47598835,Rubysyn: Clarifying Ruby's Syntax and Semantics,26,0,petalmind,general
+47587089,"Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",23,3,steeve,general
+47613118,Show HN: I built a small app for FSI German Course,22,5,syedmsawaid,general
+47642569,How many products does Microsoft have named 'Copilot'?,574,285,gpi,general
+47644864,"AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",240,58,crcastle,general
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",86,9,kaipereira,general
+47645025,"Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",50,15,waveywaves,general
+47639291,The Indie Internet Index – submit your favorite sites,133,26,freshman_dev,general
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",151,74,jrandolf,general
+47638810,Components of a Coding Agent,221,70,MindGods,general
+47614532,Ruckus: Racket for iOS,116,9,nsm,general
+47644566,"Advice to young people, the lies I tell myself (2024)",88,24,mooreds,general
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,63,12,laszlokorte,general
+47604887,Electrical transformer manufacturing is throttling the electrified future,76,69,toomuchtodo,general
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,151,6,teamchong,general
+47646363,Modern Generic SVGA driver for Windows 3.1,13,1,userbinator,general
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,416,179,naves,general
+47644667,Nvim-treesitter (13K+ Stars) is Archived,76,11,RohanAdwankar,general
+47591367,Breaking Enigma with Index of Coincidence on a Commodore 64,39,4,saganus,general
+47637757,Embarrassingly simple self-distillation improves code generation,585,172,Anon84,general
+47645305,Demonstrating Real Time AV2 Decoding on Consumer Laptops,12,1,breve,general
+47638075,"The CMS is dead, long live the CMS",140,85,taubek,general
+47606244,Training mRNA Language Models Across 25 Species for $165,137,32,maziyar,technology
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,1047,790,firloop,general
+47610590,The East India Company in Japan,7,1,Thevet,general
+47641141,IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf],47,12,hggh,general
+47611993,VR Realizes the Cyberspace Metaphor,12,6,dryadin,general
+47645468,Writing Lisp is AI resistant and I'm sad,60,59,djha-skin,technology
+47645168,Isseven,88,49,philipreasa,general
+47631118,Artemis II crew take “spectacular” image of Earth,1034,355,andsoitis,general
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",8,0,andsoitis,general
+47645235,Brain scans reveal how to enters a psychedelic-like trance without drugs,44,8,ingenika,technology
+47641255,Plague Ships (2020),46,10,bryanrasmussen,general
+47639524,"Author of ""Careless People"" banned from saying anything negative about Meta",776,505,macleginn,general
+47639727,"When legal sports betting surges, so do Americans' financial problems",192,126,pseudolus,sports
+47646241,Applying machine learning to identify unrecognized Covid-19 deaths in the US,11,5,Pxtl,general
+47636435,Emotion concepts and their function in a large language model,169,168,dnw,general
+47604698,Functional programming accelerates agentic feature development,41,21,cyrusradfar,general
+47641464,Scientists observe an immune signaling complex forming inside cells,109,7,ohjeez,general
+47637287,Some Unusual Trees,271,80,simplegeek,general
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,388,245,eichin,general
+47629485,A case study in testing with 100+ Claude agents in parallel,48,40,thejash,general
+47641615,Sopwith – 1984 Game (2000),92,40,elvis70,general
+47629382,Getting Claude to QA its own work,14,0,suchintan,general
+47644808,The machines are fine. I'm worried about us,11,2,Plasmoid,general
+47645256,Families Can Now Eat Some Fish from Hudson River for First Time in 50 Years,19,6,geox,general
+47645037,Shooting down ideas is not a skill,133,140,zdw,general
+47645817,How Pope Leo is pushing back on divine justification of war,13,1,1659447091,general
+47616361,Google releases Gemma 4 open models,1768,462,jeffmcjunkin,general
+47640775,Why the most valuable things you know are things you cannot say,145,48,nr378,general
+47645976,AI that copied musical artist files copyright claim against artist [updated],53,12,josephcsible,technology
+47643656,The Oxygen Apocalpyse: how bacteria used a spin diode to wipe out ancient life,17,3,KR_compchem,general
+47628608,OpenClaw privilege escalation vulnerability,501,246,kykeonaut,general
+47597366,The most-disliked people in the publishing industry,92,64,Caiero,general
+47629433,iNaturalist,519,130,bookofjoe,general
+47601194,"The Cathedral, the Bazaar, and the Winchester Mystery House",181,62,dbreunig,general
+47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,163,142,lschueller,technology
+47629903,Why are we still using Markdown?,209,278,veqq,general
+47625952,Show HN: I built a frontpage for personal blogs,755,190,ramkarthikk,general
+47633116,The house is a work of art: Frank Lloyd Wright,111,63,midnightfish,general
+47642275,"Netflix must refund customers for years of price hikes, Italian court rules",53,5,xbmcuser,general
+47639976,German men 18-45 need military permit for extended stays abroad,366,634,L_226,general
+47645180,The secrets of black holes and the Higgs mass could be hidden in a 7D geometry,15,0,teleforce,general
+47616242,Decisions that eroded trust in Azure – by a former Azure Core engineer,1245,631,axelriet,general
+47633157,Fake Fans,152,60,performative,general
+47621792,Post Mortem: axios NPM supply chain compromise,278,130,JeanMeche,technology
+47645095,Evacuation of U.S. troops from Mideast base sends community groups scrambling,38,13,ceejayoz,general
+47614956,Notes from from Butterick's Practical Typography,33,2,chilipepperhott,general
+47630893,Age verification on Systemd and Flatpak,142,125,londonanon,general
+47634690,Delve removed from Y Combinator,478,292,carabiner,general
+47624645,Show HN: Apfel – The free AI already on your Mac,714,146,franze,technology
+47644774,Write Your Own Copy,21,8,operatingthetan,general
+47640431,What life looks like on the most remote inhabited island,88,23,brightbeige,general
+47601570,"Csp-toolkit – Python library to parse, analyze, and find bypasses in CSP headers",12,1,bitscraper,general
+47633131,"Run Linux containers on Android, no root required",211,82,politelemon,technology
+47601992,The smallest ELF executable (2021),37,2,michelangelo,general
+47624804,Category Theory Illustrated – Types,106,19,boris_m,general
+47638147,"Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",16,12,bring-shrubbery,technology
+47641277,A new gene therapy is giving people born deaf the chance to hear,48,5,bilsbie,general
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,394,146,denssumesh,technology
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,532,182,detaro,general
+47622616,The Technocracy Movement of the 1930s,166,135,lazydogbrownfox,technology
+47645240,SpaceX Pushes Back Crucial Starship Test Launch,11,4,bookmtn,general
+47633676,"Extra usage credit for Pro, Max, and Team plans",64,60,angst,general
+47597159,Improving my focus by giving up my big monitor,182,173,Fudgel,general
+47644701,Legibility Is Ruining You,20,6,birdculture,general
+47645696,Towards end-to-end automation of AI research,6,0,hardmaru,technology
+47637010,The Last Quiet Thing,17,1,coinfused,general
+47603657,Artemis II Launch Day Updates,1093,951,apitman,general
+47591707,Bourbon waste could provide next-gen supercapacitor components,38,15,prabal97,general
+47645925,Don't Buy the DGX Spark: NVFP4 Still Missing After 6 Months,5,0,kristianp,general
+47624736,NHS staff refusing to use FDP over Palantir ethical concerns,350,163,chrisjj,general
+47629116,Go on Embedded Systems and WebAssembly,202,34,uticus,general
+47627527,Build your own Dial-up ISP with a Raspberry Pi,200,35,arjunbajaj,general
+47633640,How to Write Unmaintainable Code (1999),51,16,downbad_,technology
+47632503,"Iran strikes leave Amazon availability zones ""hard down"" in Bahrain and Dubai",237,118,upofadown,technology
+47628326,F-15E jet shot down over Iran,600,1351,tjwds,general
+47597908,Remembering Magnetic Memories and the Apollo AGC,22,4,2earth,general
+47644529,Why samurai are cooler than klingons,9,0,mooreds,technology
+47605425,Sequential Optimal Packing for PCB Placement,19,12,seveibar,general
+47624731,April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini,317,119,greenstevester,general
+47618176,George Goble has died,172,40,finaard,general
+47626462,Big-Endian Testing with QEMU,113,127,jandeboevrie,general
+47638532,"Show HN: Ownscribe – local meeting transcription, summarization and search",11,0,paberr,general
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,564,113,AbuAssar,general
+47617376,OpenAI Acquires TBPN,238,190,surprisetalk,technology
+47640632,There Is a RAM Shortage,31,12,paulpauper,general
+47630592,Async Python Is Secretly Deterministic,75,34,KraftyOne,general
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,491,358,mooreds,general
+47635033,Show HN: Travel Hacking Toolkit – Points search and trip planning with AI,92,37,borski,technology
+47626598,Show HN: ctx – an Agentic Development Environment (ADE),48,52,luca-ctx,general
+47630576,"How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",134,64,uticus,general
+47624811,SSH certificates: the better SSH experience,256,116,jandeboevrie,general
+47615002,Qwen3.6-Plus: Towards real world agents,585,207,pretext,worldnews
+47618189,Tailscale's new macOS home,560,306,tosh,technology
+47645596,"The Awake ""Sleep"" Loop: Why Attention Lapses Occur in ADHD",5,0,ivewonyoung,general
+47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,185,69,MaximilianEmel,general
+47593861,Maze Algorithms (1997),88,35,marukodo,general
+47618084,Cursor 3,538,399,adamfeldman,general
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,150,45,jackson-mcd,general
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),363,198,sedev,technology
+47645100,Mission to Recover Downed F-15E Aircrew,7,0,everybodyknows,technology
+47627419,The Axios supply chain attack used individually targeted social engineering,46,11,cmitsakis,technology
+47587339,DCJ11Hack+ – DEC PDP/11 based homebrew computer,30,1,zdw,general
+47637580,Emotion Concepts and Their Function in a Large Language Model,15,0,Anon84,general
+47614100,'Backrooms' and the Rise of the Institutional Gothic,220,104,anarbadalov,general
+47611481,Bringing Clojure programming to Enterprise (2021),201,121,smartmic,general
+47630136,Update on the eBay Scam,44,39,speckx,general
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,779,364,hkmaxpro,general
+47609492,50 years measuring the cleanest air,23,5,defrost,technology
+47640722,12k AI-generated blog posts added in a single commit,145,144,noslop,technology
+47621825,I Built an SMS Gateway with a $20 Android Phone – Jonno.nz,90,41,jonno-nz,general
+47609356,Artemis II's toilet is a moon mission milestone,325,170,1659447091,general
+47640770,Show HN: DocMason – Agent Knowledge Base for local complex office files,6,0,Jet_Xu,general
+47608604,Why LLM-Generated Passwords Are Dangerously Insecure,19,24,zdw,general
+47619879,U.S. is burning through Tomahawk cruise missile stockpile,75,66,uticus,general
+47641164,Polymarket apologizes for allowing wagers on fate of U.S. pilots downed in Iran,28,22,ceejayoz,general
+47642602,Congress Became the Weakest Branch,17,15,marojejian,general
+47640440,"""Privacy. That's iPhone."" – and Other Things That Need an Asterisk",12,2,upofadown,general
+47641057,Astronomers Find a Third Galaxy Missing Its Dark Matter,27,6,gostsamo,general
+47625244,Critics say EU risks ceding control of its tech laws under U.S. pressure,239,138,nickslaughter02,technology
+47636600,"Apple at 50, blind people and our allies shaping Apple accessibility innovation",8,2,sholladay,general
+47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,21,14,slp3r,general
+47625311,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,44,23,tosh,technology
+47613981,LinkedIn is searching your browser extensions,1872,758,digitalWestie,general
+47621448,A Few Good Magazines From the 70s and 80s,75,30,OhMeadhbh,general
+47640984,"Iran's Network of Cameras Bolsters Air Defenses, Expert Says",45,17,uxhacker,technology
+47602832,EmDash – A spiritual successor to WordPress that solves plugin security,687,499,elithrar,general
+47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,35,23,sagirodin,general
+47611921,Significant raise of reports,312,155,stratos123,technology
+47620933,Memo: A language that remembers only the last 12 lines of code,57,36,notem,general
+47635929,Naming rights to street auctioned in San Francisco,19,15,18nleung,general
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",152,117,kasparnoor,general
+47635056,Gold overtakes U.S. Treasuries as the largest foreign reserve asset,260,232,lxm,general
+47592068,Why Inventing Color TV Was So Difficult [video],42,12,DamnInteresting,general
+47638477,Ex-Microsoft engineer blames Azure problems on talent exodus,28,1,beardyw,general
+47609882,Subscription bombing and how to mitigate it,302,180,homelessdino,general
+47621438,Show HN: Made a little Artemis II tracker,149,55,codingmoh,general
+47639207,Show HN: Tokencap – Token budget enforcement across your AI agents,7,0,pykul,technology
+47615449,Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps,373,152,speckx,general
+47632312,The Hardest Document Extraction Problem in Insurance,35,5,sgondala_ycapp,general
+47639199,No One at Waffle House Remembers FEMA Official Who Says He Teleported In,48,27,planewave,general
+47643347,OpenRouter Raises $120M at a $1.3B Valuation,9,7,ryanatallah,technology
+47611721,IBM Announces Strategic Collaboration with Arm,281,191,bonzini,general
+47598413,C89cc.sh – standalone C89/ELF64 compiler in pure portable shell,197,60,gaigalas,general
+47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",96,39,Bender,technology
+47646065,What if the browser built the UI for you?,31,51,jonnonz,general
+47615756,Renewables reached nearly 50% of global electricity capacity last year,295,147,Growtika,general
+47604155,SpaceX files to go public,397,572,nutjob2,general
+47615434,Delve allegedly forked an open-source tool and sold it as its own,322,175,nickvec,general
+47609694,Email obfuscation: What works in 2026?,369,103,jaden,technology
+47613078,Inside Nepal's Fake Rescue Racket,306,131,lode,general
+47637353,SQLite in Production: Lessons from Running a Store on a Single File,27,13,thunderbong,general
+47645823,"China's ""pig semen eyedrop"" could help deliver Alzheimer's treatment",7,1,nikolay,general
+47592614,Prefer do notation over Applicative operators when assembling records (2024),53,13,wazHFsRy,general
+47630795,"Hello, World",92,23,reconnecting,worldnews
+47610777,Quad9 Enables DNS over HTTP/3 and DNS over QUIC,66,15,itchingsphynx,general
+47635340,Let's be Honest about AI Coding,22,3,lordofmoria,technology
+47618120,Hugo's New CSS Powers,52,16,speckx,general
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,87,30,ronfriedhaber,general
+47592755,OpenAI closes funding round at an $852B valuation,526,493,surprisetalk,technology
+47644492,Mullenweg to Cloudflare: Keep WordPress Out of Your Mouth,11,1,ValentineC,general
+47640537,The White House App Is Riddled with Cybersecurity Vulnerabilities,13,1,OrangePilled,general
+47631648,Automatic Textbook Formalization,43,17,tzury,general
+47624440,A CSS Engine in OCaml,26,0,p4bl0,general
+47602598,An experimental guide to Answer Engine Optimization,9,3,rosslh,general
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",897,432,novaRom,general
+47599510,"Random numbers, Persian code: A mysterious signal transfixes radio sleuths",128,121,thinkingemote,general
+47624691,HarfBuzz Slug Support with WebGL,28,5,mcraiha,general
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,132,10,01-_-,general
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,75,4,nemoniac,general
+47608495,Quantum computing bombshells that are not April Fools,264,105,Strilanc,general
+47610245,Things I Think I Think... Preferring Local OSS LLMs,53,9,zdw,general
+47589818,Cohere Transcribe: Speech Recognition,219,69,gmays,general
+47597935,CERN levels up with new superconducting karts,394,85,fnands,general
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,202,56,tjgreen,general
+47593556,A dot a day keeps the clutter away,581,168,scottlawson,general
+47623101,A Rave Review of Superpowers (For Claude Code),46,25,emschwartz,general
+47605494,Jax's true calling: Ray-Marching renderers on WebGL,91,14,BenoitP,general
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,113,65,rdme,general
+47615876,The case for zero-error horizons in trustworthy LLMs,79,113,daigoba66,general
+47631190,Chip-scale optical wireless system hits 362 Gbps at half the energy of Wi-Fi,10,0,prabal97,general
+47643801,Debian Is Figuring Out How Age Verification Laws Will Impact It,7,0,breve,general
+47620039,"Reporting potholes with an ESP32, LoRA, and AI",33,0,flakespancakes,technology
+47606840,DRAM pricing is killing the hobbyist SBC market,627,541,ingve,general
+47603737,AI for American-produced cement and concrete,223,117,latchkey,technology
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),39,22,Realman78,general
+47597119,Claude wrote a full FreeBSD remote kernel RCE with root shell,269,105,ishqdehlvi,general
+47639077,Caveman Mode Save Token?,15,7,brightball,general
+47621518,Tor Alva: The Tallest 3D-Printed Building in the World,44,14,sohkamyung,worldnews
+47632750,Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C,100,43,hpscript,general
+47593634,Ordinary Lab Gloves May Have Skewed Microplastic Data,139,62,WaitWaitWha,general
+47644484,Treason? Yes Apple Bows to Kremlin Removes over 190 Major Apps,12,2,casey2,general
+47616704,Modern SQLite: Features You Didn't Know It Had,237,63,thunderbong,general
+47645810,AGI Is Here?,9,31,oakhan3,general
+47592462,I traced my traffic through a home Tailscale exit node,154,72,stonecharioteer,technology
+47601555,Apple removes iPhone vibe coding app from app store,68,58,randycupertino,general
+47618581,Amazon is adding a fuel surcharge to fees it collects from third-party sellers,166,105,lehi,general
+47639224,Intelligence Cannot Be Trained?,7,6,hyperzzw,technology
+47635522,"Japan to require language proficiency proof for engineer, specialist visa",30,15,totetsu,general
+47608058,A new C++ back end for ocamlc,236,20,glittershark,general
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,36,6,j0rg3,technology
+47618100,Yggdrasil Network,122,60,Velocifyer,general
+47601859,Ask HN: Who is hiring? (April 2026),276,348,whoishiring,general
+47626242,Second Revision of 6502 Laptop,11,0,uticus,general
+47634328,Show HN: DotReader – connects ideas across your books automatically,5,2,efecerre,general
+47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",425,151,PrismML,technology
+47601858,Ask HN: Who wants to be hired? (April 2026),86,337,whoishiring,general
+47599305,The Document Foundation ejects its core developers,116,170,hackernewsblues,general
+47605374,Scientists crack a 20-year nuclear mystery behind the creation of gold,86,39,prabal97,general
+47629608,Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law,50,10,liz_ifixit,technology
+47620939,rpg: A modern psql-compatible Postgres terminal and TUI written in Rust,21,3,tanelpoder,general
+47600382,Is BGP safe yet?,254,89,janandonly,general
+47643217,Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions,45,41,cratermoon,general
+47631011,PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free,15,5,mettamage,technology
+47638246,"Jack Dorsey says Block employees now bring prototypes, not slides, to meetings",73,87,taubek,general
+47613447,CC leak: skills are better than I thought,47,14,KaseKun,general
+47634240,OpenAI Cap Table leak reveals Microsoft's 18x return,30,4,diehunde,technology
+47633734,ENiGMA½ BBS Software,10,1,NuSkooler,general
+47633715,Kids groups say they didn't know OpenAI was behind their child safety coalition,35,8,heavyset_go,technology
+47627061,Solar and batteries can power the world,288,447,edent,worldnews
+47633514,"Writing an LLM from scratch, part 32h – Interventions: full fat float32",7,0,gpjt,general
+47609090,The Weather Channel – RetroCast,317,61,typeofhuman,general
+47618221,The Australian government has announced gambling advertising reforms,133,101,gostsamo,general
+47611809,New laws to make it easier to cancel subscriptions and get refunds,157,66,chrisjj,general
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,21,4,symisc_devel,general
+47632901,Sandbox Strategy Game for AI,6,0,Stefan_Golas,technology
+47642630,Xogot: Godot for iPad and iPhone,7,1,HelloUsername,general
+47632763,I Gave an Claude Its Own Radio Station – It Won't Stop Broadcasting (It's Fine),13,4,eltokh7,general
+47630582,Three main saturated fats raise your cholesterol,47,13,brandonb,technology
+47588349,GitHub Monaspace Case Study,146,50,homebrewer,general
+47624270,Q148637: Windows 95/98 Overwrites Boot-Sector Field on Floppy Disks (2001),10,3,TMWNN,general
+47625629,Squarified Treemap Algorithm,13,4,downboots,general
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",25,14,arttaboi,technology
+47587953,Slop is not necessarily the future,301,484,dakshgupta,general
+47636203,"Scientists are working on ""everything vaccines""",48,56,andsoitis,general
+47595572,Neanderthals survived on a knife's edge for 350k years,237,204,Hooke,general
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),40,6,ruevs,general
+47609241,Trinity Large Thinking,56,17,kristianp,general
+47624990,Adobe wrote to my hosts file. I've never had an app do this before,91,21,speckx,general
+47587866,Microsoft: Copilot is for entertainment purposes only,578,200,lpcvoid,technology
+47637472,European Commission cloud breach: a supply-chain compromise,16,0,Sandman,technology
+47629505,Solana Drift Protocol drained of $285M via fake token and governance hijack,75,32,anonhaven,technology
+47593285,MiniStack (replacement for LocalStack),316,67,kerblang,general
+47638756,Slap: Functional Concatenative Language with a Borrow Checker?,10,0,birdculture,general
+47636660,Systemd-free Modern Linux: artixlinux and dinit and labwc and noctalia shell,12,0,grigio,general
+47598511,I quit. The clankers won,421,478,domysee,general
+47634095,Wikidata for Developers,5,0,matthberg,general
+47594936,GitHub has DMCA'd nearly all forks of the official Claude-code repo,52,50,cg505,general
+47640048,Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse,26,20,therobots927,technology
+47613272,Tracing Goroutines in Realtime with eBPF,17,0,darccio,general
+47605677,Signing data structures the wrong way,120,52,malgorithms,general
+47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,88,45,coolwulf,general
+47610336,r/programming bans all discussion of LLM programming,196,216,cryptoz,general
+47636233,"Uber engineer alleges hostile 'boys club' culture, firing after cancer leave",21,1,nickvec,general
+47633698,Flattening the Duck Curve: batteries reach 44% of evening demand in California,23,5,bronson,general
+47602519,Default GraphQL response is now HTTP 500,34,4,markl42,general
+47597085,Claude Code Unpacked : A visual guide,1110,403,autocracy101,general
+47619990,The machines are fine. I'm worried about us,18,3,hmpc,general
+47637083,Ask HN: Learning resources for building AI agents?,7,5,7e10,technology
+47637343,Iran Threatens to Bomb 1GW Stargate AI Datacenter in Abu Dhabi,11,1,ZunarJ5,technology
+47633568,Anthropic to limit Using third-party harnesses with Claude subscriptions,17,5,guiyuwei,general
+47610534,"Vitalik Buterin – ""My self-sovereign / local / private / secure LLM setup""",34,6,derrida,general
+47591928,GitHub's Historic Uptime,496,121,todsacerdoti,general
+47639016,Show HN: Hacker News RSS Feed Directory,8,0,tamnd,general
+47637077,Scientists mapped all the nerves of the clitoris for the first time,14,2,01-_-,general
+47602879,StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles),174,84,skysniper,general
+47621048,Why Doesn't Anybody Realize We're Going Back to the Moon?,87,148,paulpauper,general
+47638842,Using a VPN May Subject You to NSA Spying,13,1,redeux,general
+47622670,EmDash Feedback,40,6,batuhanicoz,general
+47594804,Show HN: Claude Code rewritten as a bash script,59,19,rpst,general
+47637714,"In California, wildfires are prevented by crews of unlikely firefighters: goats",7,2,thunderbong,general
+47636101,AdGuard ad trackers What ad-based surveillance does to your traffic,10,1,XzetaU8,general
+47632016,The danger of military AI isn't killer robots; it's worse human judgement,22,5,speckx,technology
+47607468,Tracing goroutines in realtime with eBPF,23,3,sazak,general
+47587597,Ask HN: Distributed data centers in our basements,73,65,cmos,general
+47631444,Show HN: Run Claude Code autonomously inside your Docker Compose stack (OSS),8,0,sayil,general
+47622110,NanoClaw's architecture is a masterclass in doing less,11,0,jonnonz,general
+47636690,Mary Jo Foley: What the heck is going on with Microsoft lately?,16,2,thunderbong,general
+47625682,Idiomatic Lisp and the Nbody Benchmark,30,0,signa11,general
+47640137,Byte-Pair Encoding,9,0,tosh,technology
+47589732,Forth VM and compiler written in C++ and Scryer Prolog,37,0,triska,general
+47589370,Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf],54,32,jandrewrogers,technology
+47607923,"IPv6 address, as a sentence you can remember",78,129,LorenDB,general
+47629385,Artemis II Looking Back at Earth,24,3,DarmokJalad1701,general
+47636200,Donald Knuth: Open Letter to Condoleezza Rice (2002),13,3,car,general
+47587935,Oracle slashes 30k jobs,913,845,pje,general
+47634544,"The story that rocked the world: Ten years of the Panama Papers, part 1 – ICIJ",12,0,abdelhousni,worldnews
+47629013,Mercurial Dyson – a plan for the disassembly of planet Mercury,56,46,indy,general
+47603131,Google Cloud: Investing in the Future of PostgreSQL,33,8,kevincox,general
+47645448,Budget cuts for US science proposed again by Trump administration,7,0,bhouston,technology
+47600233,The Finest Swiss Quality Quaternions,39,4,hpb42,general
+47604897,Apple at 50,125,75,janandonly,general
+47612627,Zstandard Across the Stack,17,7,oddurmagnusson,general
+47604245,Ukrainian drone holds position for 6 weeks,171,194,AftHurrahWinch,technology
+47620381,AWS has officially removed all EC2 instances in Bahrain from their docs,57,1,mirzap,technology
+47588324,Show HN: Sundial – a new way to look at a weather forecast,65,26,izaidi,general
+47592626,Super Micro Computer Investors Look for Exits,41,25,malindasp,general
+47588103,"On the trail of ancient art, deep in the Sahara",29,3,bookofjoe,technology
+47589567,Scotty: A beautiful SSH task runner,67,30,speckx,general
+47596457,Analyzing Geekbench 6 under Intel's BOT,41,15,hajile,general
+47628083,Audit Claude Platform Activity with the Compliance API,5,0,gmays,general
+47616050,March heat in American west has left snowpack at record-low levels,114,55,ijidak,general
+47593015,Safe ways to do things in bash (2023),33,1,gautamsomani,general
+47633464,Third-party Claude harnesses will now draw from extra usage,13,4,iBelieve,general
+47617852,Show HN: Adentris (YC P25) – Find mistakes in your medical records,14,3,digitaltzar,general
+47609294,The Claude Code Leak,198,180,mergesort,general
+47635526,Did Anyone Predict the Industrial Revolution?,16,3,paulpauper,general
+47627308,Claude Code Found a Linux Vulnerability Hidden for 23 Years,9,2,mtlynch,general
+47635472,No One at Waffle House Remembers FEMA Official Who Says He Teleported In,12,4,jonas21,general
+47624879,Switzerland hosts 'CERN of semiconductor research',34,6,teleforce,general
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,76,29,simple10,general
+47634220,Ten Foreign Nationals Charged in an International Op Targeting Crypto Market,11,0,737min,general
+47620698,New IRIX Emulator (I am not the author),5,1,ThatGuyRaion,general
+47607067,Swappa.com for GrapheneOS compatible devices – Stay Away,114,80,OsrsNeedsf2P,general
+47632805,"Claude AI finds Vim, Emacs RCE bugs that trigger on file open",12,1,akyuu,technology
+47615003,The underrated benefits of always having oatmeal at lunch,9,0,surprisetalk,general
+47638640,AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills,6,2,cebert,technology
+47611455,What Exoskeleton Technology Learned from One User,13,0,rbanffy,technology
+47626258,"The more evidence behind a therapy, the less the public trusts it",33,21,clumsysmurf,general
+47620155,Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are,38,9,bigbobbeeper,technology
+47592047,Textstring,33,4,memalign,general
+47604218,The AI Marketing BS Index,107,21,speckx,technology
+47593958,Karakuri Mechanical Art,23,2,marukodo,general
+47619111,The MVC Mistake,8,0,ibobev,general
+47616665,Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI,53,6,SilverElfin,technology
+47588476,"Trap a quantum object in a box – is it hard or soft, or is it black or white?",10,0,allangoff,general
+47622591,Jobs Being Created by AI,5,1,Jimmc414,technology
+47587631,RubyGems Fracture Incident Report,93,40,schneems,general
+47594816,Prompt Engineering for Humans,33,0,mooreds,general
+47638341,How good is this DRAM cycle?,6,0,ironyman,general
+47622496,"Run a Local LLM, and discover why LLMs are unpredictable",8,0,mooreds,general
+47618123,Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer,6,0,dxs,technology
+47631221,Colorado's New Speed Camera System Makes Waze Nearly Useless,18,15,c420,general
+47634405,Delve removed from YC portfolio website,36,2,cyrusradfar,general
+47635558,Netflix just dropped their first public model on Hugging Face: VOID,15,1,rajtilakjee,general
+47600434,New patches allow building Linux IPv6-only,121,186,Bender,general
+47609253,Solar Balconies Take Europe by Storm,90,38,lxm,general
+47624865,"OpenUMA – bring Apple-style unified memory to x86 AI inference (Rust, Linux)",6,0,hamtun24,technology
+47617463,Users say Adobe Creative Cloud rewrote hosts file to detect installed app,67,12,bobsoap,general
+47642779,Big Banks Seeking a Piece of SpaceX's IPO Must Subscribe to Elon Musk's Grok,10,0,codydh,general
+47621937,Show HN: A Minimal Basic Inspired by Brainfuck,9,0,ADavison2560,technology
+47643094,"Student Debt Burdened Them, So They Moved Abroad and Stopped Paying",47,89,JumpCrisscross,general
+47613156,ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026,70,26,jeditobe,general
+47621501,The Dopamine Detox Myth Does It Work?,7,1,myClover,general
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",85,120,vrganj,general
+47599956,Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity,95,74,lukechu10,technology
+47598354,Replace axios with a simple custom fetch wrapper,17,4,mariuz,general
+47604768,Comparing C/C++ unity build with regular build on a large codebase (2024),12,5,PaulHoule,general
+47610740,Evolutionary Computation Bestiary,14,1,emil-lp,general
+47625860,Ubuntu now has higher system hardware requirements than Windows 11,24,9,bundie,general
+47629272,"Artemis II astronaut: 'I have two Microsoft Outlooks, and neither are working'",19,1,Bender,general
+47608155,"ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",76,37,bananaboy,technology
+47625759,Names of Easter,14,1,throw0101c,general
+47607255,"If you read cursive, the Newberry has a job for you",12,0,mooreds,general
+47623708,I used AI. It worked. I hated it,14,4,signa11,technology
+47602277,Samsung's Blood Pressure Monitoring Feature Now Available,11,3,brandonb,technology
+47619138,Vitalik Buterin: My self-sovereign/local/private/secure LLM setup,7,0,aragonite,general
+47632554,"Cursor CEO: vibe coding builds 'shaky foundations', eventually 'things crumble'",9,1,akyuu,general
+47630141,Quantum computer researchers: Bitcoin encryption breakable in a few years,15,7,croes,general
+47646277,I used AI. It worked. I hated it,38,83,evolve2k,technology
+47609425,Show HN: We open-sourced our content writing workflow as a Claude Code skill,18,8,arximughal,general
+47609372,"Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",12,4,joaoli131,general
+47605685,Rick Dangerous,22,7,tie-in,general
+47635698,Lenovo ThinkPad P16 Gen 3 Review: RTX Pro 5000 Power in True Workstation Laptop,7,2,teleforce,general
+47632055,Nikon Z9 Aboard the Artemis II Moon Mission at the Last Minute,11,2,DASD,general
+47593473,"Income percent for all food, food at home and food not at home, 1960-2019 (2020)",20,3,NaOH,general
+47595865,We intercepted the White House app's network traffic,234,72,donutpepperoni,general
+47617233,The Enigma of Gertrude Stein,5,0,samclemens,general
+47619782,"EPA flags microplastics, pharmaceuticals as contaminants in drinking water",26,0,mikhael,general
+47619322,A $20/month user costs OpenAI $65 in compute. AI video is a money furnace,76,42,Aedelon,technology
+47620426,Amazon data center in Bahrain attacked by Iranian Revolutionary Guards,25,5,topherPedersen,technology
+47637013,MIT study challenges AI job apocalypse narrative,5,2,TMWNN,technology
+47608130,Montana referendum to outlaw corporate campaign contributions [video],63,16,le-mark,technology
+47635269,Know why you don't like OOP,6,1,baranul,general
+47607211,Wikidata: WikiProject Ontology/Ontology Course,10,2,taubek,general
+47633226,Meta Pauses Work with Mercor After Data Breach Puts AI Industry Secrets at Risk,11,1,srameshc,technology
+47633150,The Subprime AI Crisis Is Here,51,24,dmitrygr,technology
+47615058,Old code never dies: why legacy software is often safer than new code,6,0,speckx,general
+47588658,"Tell HN: Chrome says ""suspicious download"" when trying to download yt-dlp",309,98,joering2,general
+47592392,Show HN: EU Leadership – Live API data site comparing Europe to the world,34,16,aureljohn,worldnews
+47625723,What Hath Tim Berners-Lee Wrought?,17,1,MindGods,general
+47614527,After 40 Years New Mario Glitch Discovered [video],5,0,surprisetalk,general
+47639757,Hims and Hers warns of data breach after Zendesk support ticket breach,8,0,Brajeshwar,general
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",12,4,Edward9055,general
+47641555,US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war,60,77,prmph,general
+47633517,Lightweight IDE to Pair with Claude Code?,5,1,zupancik,technology
+47613668,Show HN: Abject: the first self-aware object runtime,10,3,mempko,general
+47632385,"Palm-sized superconducting magnet achieves 42 Tesla, rivaling the worlds biggest",10,0,u1hcw9nx,worldnews
+47632273,"Wine 11.6 – Run Windows Applications on Linux, BSD, Solaris and macOS",8,0,neustradamus,general
+47621557,Show HN: SkiFlee (an HTML5 game),8,9,BSTRhino,general
+47620453,Iran Says It Hit Oracle Facilities in UAE,46,19,Betelbuddy,general
+47621304,Brazil Joins Elite Club of Advanced Fighter Producers: First Home-Built Gripen E,7,0,teleforce,general
+47615360,Japanese X is now America's favorite corner of the internet,55,9,mikhael,general
+47634422,"Native Americans had dice 12,000 years ago",9,1,delichon,general
+47618322,Mistral secures $830M in debt financing to fund AI data center,33,3,gmays,technology
+47634234,Silicon Valley Is in a Frenzy over Bots That Build Themselves,11,1,geox,general
+47617343,Trump fires Pam Bondi as attorney general,131,108,Cider9986,general
+47591834,Do LLMs Break the Sapir-Whorf Hypothesis?,15,7,dot_treo,general
+47634073,CBP Facility Codes Sure Seem to Have Leaked via Online Flashcards,12,1,couchand,general
+47608080,Show HN: 65k AI voters predict UK local elections with 75% accuracy,9,9,JasonDuke,technology
+47609725,Show HN: NASA Artemis II Mission Timeline Tracker,93,17,AustinDev,general
+47624558,Proton Meet isn't what they told you it was,163,164,bundie,general
+47594840,"Kagi: April 1, 1996",31,10,surprisetalk,general
+47625537,"Economists Once Dismissed the A.I. Job Threat, but Not Anymore",20,9,chrisaycock,general
+47611572,Show HN: SideX – VS Code rebuilt on Tauri instead of Electron (96% smaller),12,2,KendallCBooker,general
+47607159,"AbodeLLM – An offline AI assistant for Android devices, based on open models",7,0,shaicoleman,technology
+47624164,AI models will deceive you to save their own kind,14,1,cmsefton,technology
+47619319,Show HN: RiceVM – A Dis virtual machine and Limbo compiler in Rust,6,0,habedi0,general
+47606349,"Dutch armed forces recruiting 1,200 drone specialists",44,1,johnbarron,general
+47592113,"Jami – free/libre, end-to-end encrypted, and private communication software",44,4,smartmic,general
+47633191,"Darkness can ""travel"" faster than light speed",11,6,Jimmc414,general
+47617630,"Show HN: Mac-hardware toys, control your Mac's hardware like a modular synth",7,1,nikisweeting,general
+47639585,The War Against Misinformation Is Over. The Lies Won,11,0,cainxinth,technology
+47630749,Ask HN: Should we collectively stop spell checking and fixing grammar,5,16,sankalpnarula,general
+47629306,Pharmaceuticals face 100% tariffs in US – unless firms strike a deal,37,31,geox,general
+47642088,EU ready to cave to Trump on tech,10,1,only_in_america,technology
+47628860,Meta Has a New Linux Optimization Avoid Throttling TCP Throughput Unnecessarily,8,0,Bender,general
+47616622,EmDash: A Fresh Take on CMS,60,13,taubek,general
+47616185,Show HN: AI-first PostgreSQL client for Mac,5,0,Guillim,technology
+47594159,RFC Esolang – RFCs as executable programs,11,1,beefburger,general
+47632183,"US economy beats expectations to add 178,000 jobs in March",9,11,alephnerd,general
+47593620,1-Bit Bonsai: The First Commercially Viable 1-Bit LLMs,9,1,wmf,technology
+47592939,JSSE: A JavaScript Engine Built by an Agent,27,16,tilt,general
+47631515,A new Postcrossing stamp from the USA,8,1,Tomte,general
+47606040,The Anti-Intellectualism of Silicon Valley Elites,100,27,speckx,general
+47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],36,1,latexr,technology
+47613827,One ant for $220: The new frontier of wildlife trafficking,6,0,gmays,general
+47622467,Tesla March car registrations soar in key European markets,40,6,havaloc,general
+47590281,Claude Code leaked features and hidden commands,11,1,ishqdehlvi,general
+47620867,Proton Workspace: An encrypted suite for team collaboration,26,4,teekert,general
+47607408,Scientists Figured Out How Eels Reproduce (2022),8,0,thunderbong,general
+47607354,"""Vibecession"" reflects an increasingly difficult economy and society",30,5,paulpauper,general
+47630701,FEMA Official Claims Waffle House Teleportation Power,6,0,giardini,technology
+47613181,Show HN: I run a full software company solo with Claude Code agents,6,0,martinovigiani,general
+47608602,The beginning of programming as we'll know it?,62,68,zdw,general
+47602040,Ask HN: What dev tools do you rely on that nobody talks about?,43,37,crcsmnky,general
+47594637,Show HN: Asciimap – Interactive ASCII world map with live data,10,3,limsight,worldnews
+47629840,North Korea–linked hackers drain $285M from Drift in sophisticated attack,6,2,lschueller,technology
+47612202,Article about simple LSB steganography in JavaScript,7,1,ernos,general
+47634086,Vermin Supreme: When I'm President Everyone Gets a Free Pony [video],10,4,nomilk,general
+47634072,Landdown – Simple sandboxing for shell scripts,5,0,birdculture,general
+47626833,Ask HN: What are you moving on to now that Claude Code is so rate limited?,10,15,esperent,general
+47605086,pg_plan_alternatives: Tracing PostgreSQL Query Plan Alternatives Using eBPF,7,1,tanelpoder,general
+47616475,Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000,30,0,mooreds,general
+47637050,Were our Grandparents Nazis? Nat Archives makes NSDAP records available online,8,0,ZunarJ5,technology
+47592660,The .env File Nobody Needs,13,6,alwillis,general
+47612035,UK Government unveils rules to end subscription traps,27,6,_____k,general
